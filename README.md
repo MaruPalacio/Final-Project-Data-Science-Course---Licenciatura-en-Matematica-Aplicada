@@ -1,0 +1,2 @@
+# Final-Project-Data-Science-Course---Licenciatura-en-Matematica-Aplicada
+Dermatology Dataset Classification – Multiclass Problem This project focuses on classifying erythemato-squamous diseases based on clinical and histopathological features. Using various machine learning models, the goal is to accurately predict the disease type among six classes, addressing a challenging differential diagnosis problem in dermatology
